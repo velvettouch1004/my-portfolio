@@ -90,7 +90,7 @@ export const projectsData = [
     ],
     image: tastyMockup,
     deploymenturl: "https://delightful-cheesecake-9b19f0.netlify.app/",
-    githuburl: "https://github.com/velvettouch1004",
+    githuburl: "https://github.com/velvettouch1004/RickMorty",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -122,8 +122,7 @@ export const projectsData = [
     ],
     image: silentmoonMockup,
     deploymenturl: "https://silentmoon-grpw.onrender.com/",
-    githuburl:
-      "https://github.com/velvettouch1004/Fullstack_Abschlussprojekt_SilentMoon",
+    githuburl: "https://github.com/velvettouch1004/mern-social",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
@@ -155,7 +154,8 @@ export const projectsData = [
     ],
     image: instorMockup,
     deploymenturl: "https://mern-haushaltsbuch.onrender.com/",
-    githuburl: "https://github.com/velvettouch1004/Furniture_MERN",
+    githuburl:
+      "https://github.com/velvettouch1004/typescript-react-express-esbuild",
     githubicon: FiGithub,
     deploymenticon: FiLink,
     colors: {
